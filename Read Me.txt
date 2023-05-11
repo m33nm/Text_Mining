@@ -1,0 +1,29 @@
+1. Title: 	Sentiment analysis on restaurants in Patong, Thailand
+
+2. Introduction: 
+
+	It involves the application of text mining and sentiment analysis on 30 restaurant reviews in Patong, Thailand. 
+	It employs the VADER (Valence Aware Dictionary for Sentiment Reasoning) model to analyze text data from tourist reviews 
+	to reveal the sentiment scores of the selected restaurants and the Bag-of-words model to extract and show the frequency of the 
+	words in the reviews. 
+
+3. Data source:	 The dataset is public, available for research.
+		It was obtained from the University of Salford Blackboard
+		https://blackboard.salford.ac.uk/ultra/courses/_180504_1/outline/file/_8475400_1
+
+4. Framework: Jupyter Notebook (anaconda3)
+
+5. Number of instances: 3084
+
+6. Number of attributes: 5
+
+7. Missing attribute values: None
+
+8. Attribute information:
+
+   Variables  			Description  
+1. ID				Encrypted tourist ID
+2. Review Date			Date when the tourist wrote the review
+3. Location			Geographical area of the tourist review
+4. Hotel/Restaurant name	Name of the restaurant
+5. Review			Opinion of the tourist on the restaurant
